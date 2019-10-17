@@ -1,8 +1,10 @@
+caeler
 import os
 from time import sleep
 a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
+from time import sleep
 os.system('clear')
 print(a+'\t  Tombol Tambahan Termux ')
 print(a+'\t  UP,Down,right,Left, CTRL ')
